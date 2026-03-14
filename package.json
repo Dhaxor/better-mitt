@@ -1,6 +1,6 @@
 {
   "name": "better-mitt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enhanced tiny (~400b) functional event emitter / pubsub with TypeScript support",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -21,17 +21,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dhaxor/better-mitt.git"
+    "url": "git+https://github.com/dhaxor/better-mitt.git"
   },
   "keywords": [
     "events",
+    "event-emitter",
     "eventemitter",
+    "emitter",
     "pubsub",
-    "publish",
-    "subscribe",
-    "typescript",
+    "pub-sub",
+    "event-bus",
+    "observer",
     "mitt",
-    "event-emitter"
+    "typescript",
+    "lightweight",
+    "tiny"
   ],
   "author": "Gain John",
   "license": "MIT",
